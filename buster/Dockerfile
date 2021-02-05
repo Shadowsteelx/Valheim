@@ -8,7 +8,7 @@ LABEL maintainer="bradley@griffin.network"
 ENV STEAMAPPID 896660
 ENV STEAMAPP valheim
 ENV STEAMAPPDIR "${HOMEDIR}/${STEAMAPP}-dedicated"
-ENV DLURL https://raw.githubusercontent.com/CM2Walki/Squad
+ENV DLURL https://raw.githubusercontent.com/Shadowsteelx/Valheim
 
 RUN set -x \
 	&& apt-get update \
