@@ -1,7 +1,7 @@
 ############################################################
 # Dockerfile that builds a Valheim dedicated server
 ############################################################
-FROM cm2network/steamcmd:root
+FROM cm2network/steamcmd:latest
 
 LABEL maintainer="bradley@griffin.network"
 
