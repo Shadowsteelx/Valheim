@@ -1,5 +1,5 @@
 ############################################################
-# Dockerfile that builds a Squad Gameserver
+# Dockerfile that builds a Valheim dedicated server
 ############################################################
 FROM cm2network/steamcmd:root
 
